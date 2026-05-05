@@ -26,7 +26,7 @@ public class AvaliacaoA1 {
             System.out.println("ACESSO PERMITIDO.");
         } else { 
             System.out.println("INFORMAÇÕES DO USUÁRIO: \nNome: " + nome + "\nCargo: " + cargo);
-            System.out.println("ALERTA DE SEGURANÇA! Tentativa de acesso indevida detectada! \nO seu nível de acesso é mais baixo que a área de sigilo solicitada.");
+            System.out.println("ALERTA DE SEGURANÇA! Tentativa de acesso indevido detectada! \nO seu nível de acesso é mais baixo que a área de sigilo solicitada.");
             System.out.println("ACESSO NEGADO.");
             return;
         }
